@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+nav  {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+nav, .page-footer {
+    background-color: #5f848a;
+}
+th, td {
+    padding: 5px 5px;
+}
+
+.card.pink{
+    background-color: #569099 !important;
+}
+
+.btn-primary {
+    background-color: #569099 !important;
+}
+
+.btn-secondary {
+    background-color: #77a6ad;
+}
+
+.btn-secondary:focus, .btn-secondary:hover {
+    background-color: #569099;
+}
+
+.btn-secondary:focus-out {
+    background-color: #77a6ad;
+}
