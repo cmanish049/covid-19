@@ -1,6 +1,9 @@
 body {
     font-family: Roboto, sans-serif;
 }
+p {
+    font-size: 20px;
+}
 nav  {
     padding-left: 8px;
     padding-right: 8px;
